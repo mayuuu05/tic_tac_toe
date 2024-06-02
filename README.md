@@ -35,7 +35,7 @@ A new Flutter project.
 #### 3. State Management: :
 
 - Using the Provider package to manage and provide game state to the UI components.
-## ScreenShots & Video
+#📸 ScreenShots & Video
 <div align = "center">
  
     
