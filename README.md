@@ -4,7 +4,8 @@ A new Flutter project.
 
 # ⭕ Tic Tac Toe ✖
 
-Creating a Tic Tac Toe app in Flutter can be a fun and educational project to dive into mobile app development.
+Welcome to the Tic Tac Toe Flutter App! This is a simple, yet engaging implementation of the classic Tic Tac Toe game, developed using Flutter. The app allows for both single-player and two-player modes, with a variety of features to enhance the gaming experience.
+
 
 ### Detailed Description
 
