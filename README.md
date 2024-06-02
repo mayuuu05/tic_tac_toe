@@ -35,6 +35,20 @@ A new Flutter project.
 #### 3. State Management: :
 
 - Using the Provider package to manage and provide game state to the UI components.
+
+  
+## 💡 What I Learned
+
+#### Responsive Design : 
+     
+ - Ensured the app works smoothly on various screen sizes and  orientations.
+#### User Experience (UX):
+
+- Focused on creating an intuitive and engaging user interface.
+#### Accessibility : 
+- Incorporated features to make the app usable for everyone, including those with disabilities.
+
+
 #📸 ScreenShots & Video
 <div align = "center">
  
