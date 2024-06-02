@@ -1,9 +1,9 @@
 # tic_tac_toe
-https://github.com/mayuuu05/tic_tac_toe/assets/149376263/b76626f9-e3ea-432f-a601-458ff7ff62a7
+
 A new Flutter project.
 
 <h1 align="center"> 👉Tic Tac Toe Game </h1>
-
+https://github.com/mayuuu05/tic_tac_toe/assets/149376263/b76626f9-e3ea-432f-a601-458ff7ff62a7
 <div align = "center">
  
     
