@@ -6,7 +6,7 @@ A new Flutter project.
 
 #### 👉 Welcome to the Tic Tac Toe Flutter App! This is a simple, yet engaging implementation of the classic Tic Tac Toe game, developed using Flutter. The app allows for both single-player and two-player modes, with a variety of features to enhance the gaming experience.
 
-## Key Features🔸
+## 🔸 Key Features🔸
 
 - Clean and Intuitive Design
 - Responsive Layout
@@ -37,7 +37,7 @@ A new Flutter project.
 - Using the Provider package to manage and provide game state to the UI components.
 
   
-## 💡 What I Learned
+# 💡 What I Learned
 
 #### Responsive Design : 
      
