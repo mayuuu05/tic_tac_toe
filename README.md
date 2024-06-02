@@ -13,9 +13,12 @@ A new Flutter project.
    <img src = "https://github.com/mayuuu05/tic_tac_toe/assets/149376263/0e8d8214-0ab6-47fe-bc54-14c9636b65da"  height=35% width=22%  />
    <img src = "https://github.com/mayuuu05/tic_tac_toe/assets/149376263/38451187-171a-45c3-a989-f5f029d50146"  height=35% width=22%  />
 
-  <video height="450" src="
-https://github.com/mayuuu05/tic_tac_toe/assets/149376263/3829fd21-d72e-407e-a34e-4a6d3aa59794" />
+  <video height="450" src="https://github.com/mayuuu05/tic_tac_toe/assets/149376263/5b401fdd-21c5-4619-b275-4966b3d14a16" />
   
+
+
+
+
 </div>
 ## Getting Started
 
