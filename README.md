@@ -15,7 +15,7 @@ A new Flutter project.
 
   <video height="450" src="
 https://github.com/mayuuu05/tic_tac_toe/assets/149376263/3829fd21-d72e-407e-a34e-4a6d3aa59794" />
-    
+  
 </div>
 ## Getting Started
 
